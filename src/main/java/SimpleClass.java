@@ -5,6 +5,8 @@ public class SimpleClass {
 
 
         System.out.println("selam");
+
+        System.out.println("HEY man");
     }
 
 }
